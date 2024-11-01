@@ -1,2 +1,2 @@
 # TO-DO-List
-This is my todo list project.. get ideas from here
+This is my small project. fill free to use and you can get some ideas from here 
